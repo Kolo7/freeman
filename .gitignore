@@ -1,0 +1,11 @@
+.idea
+.idea/**
+*.iws
+*.iml
+*.ipr
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+**/logs/
+bin/*

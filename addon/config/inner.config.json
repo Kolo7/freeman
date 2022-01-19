@@ -1,0 +1,6 @@
+{
+  "RegisterAddress": "tcp://120.0.0.1:9090",
+  "ProxyAddress": "tcp://127.0.0.1:80",
+  "AuthKey": "123456",
+  "MaxFreeConn": 50
+}
